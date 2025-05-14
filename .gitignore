@@ -1,0 +1,18 @@
+# Maven
+/target/
+*.log
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java build files
+*.class
+
+# VSCode (if you ever use it)
+.vscode/
